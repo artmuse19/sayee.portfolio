@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="https://sayee23.github.io/sayee.portfolio/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://sayee23.github.io/sayee.portfolio/hello-world/</link>
+	<atom:link href="http://artmuse19.github.io/sayee.portfolio/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>http://artmuse19.github.io/sayee.portfolio/hello-world/</link>
 	<description>Portfolio</description>
 	<lastBuildDate>Sat, 14 Jan 2023 06:26:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>https://sayee23.github.io/sayee.portfolio/hello-world/#comment-1</link>
+		<link>http://artmuse19.github.io/sayee.portfolio/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sat, 14 Jan 2023 06:26:41 +0000</pubDate>
-		<guid isPermaLink="false">https://sayee23.github.io/sayee.portfolio/?p=1#comment-1</guid>
+		<guid isPermaLink="false">http://artmuse19.github.io/sayee.portfolio/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
